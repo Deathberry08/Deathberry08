@@ -12,10 +12,7 @@ Hi there! I am a **Biochemistry graduate** transitioning into **Data Analytics &
 ---
 
 ### 💖 Tech Stack & Tools
-![SQL](https://shields.io)
-![Python](https://shields.io)
-![Tableau](https://shields.io)
-![VS Code](https://shields.io)
+🌸 **`SQL`** &nbsp;•&nbsp; 🩷 **`Python`** &nbsp;•&nbsp; 🌷 **`Tableau`** &nbsp;•&nbsp; ✨ **`VS Code`**
 
 ---
 
