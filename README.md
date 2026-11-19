@@ -1,4 +1,4 @@
-$$\fcolorbox{#ff4d6d}{transparent}{\Huge \color{#ffb3c6}{\textbf{ ✨ Deathberry08 ✨ }}}$$
+$$\color{#ff4d6d}{\boxed{\Huge \color{#ffb3c6}{\textbf{ ✨ Deathberry08 ✨ }}}}$$
 $$\color{#ffb3c6}{\large \textbf{Biochemistry Graduate | Data \& Clinical Research Analytics}}$$
 
 ---
