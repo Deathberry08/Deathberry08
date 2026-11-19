@@ -1,5 +1,5 @@
 <!-- Pink Waving Header Banner -->
-![Header](https://vercel.app)
+![Deathberry08](https://vercel.app)
 
 ### 🌸 About Me
 Hi there! I am a **Biochemistry graduate** transitioning into **Data Analytics & Clinical Research Analytics**. I specialize in turning complex healthcare, genomics, and clinical trial datasets into clean, actionable insights.
